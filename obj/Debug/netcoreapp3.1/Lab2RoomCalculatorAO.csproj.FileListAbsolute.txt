@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\bin\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.exe
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\bin\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.deps.json
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\bin\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.runtimeconfig.json
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\bin\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.runtimeconfig.dev.json
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\bin\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.dll
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\bin\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.pdb
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.AssemblyInfo.cs
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.dll
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.pdb
+C:\Users\12482\source\repos\Lab2RoomCalculatorAO\Lab2RoomCalculatorAO\obj\Debug\netcoreapp3.1\Lab2RoomCalculatorAO.genruntimeconfig.cache
